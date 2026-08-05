@@ -18,4 +18,4 @@ Meu objetivo é atuar em ambientes dinâmicos de tecnologia, unindo as melhores 
 
 🌱 *Atualmente focado em aprofundar minhas habilidades em integrações com IA e metodologias de governança para escalar operações de TI.*
 
-### 📫 **Vamos conversar:** [www.linkedin.com/in/arthur-novôa-de-magalhães-186567247] | [arthurnovoad4emagalhaes@gmail.com]
+#### 📫 **Vamos conversar:** [www.linkedin.com/in/arthur-novôa-de-magalhães-186567247] | [arthurnovoad4emagalhaes@gmail.com]
