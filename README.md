@@ -1,4 +1,4 @@
-Olá! Eu sou o Arthur 👋
+#Olá! Eu sou o Arthur 👋
 
 Sou estudante de Gestão de TI, com foco em otimizar processos, liderar projetos tecnológicos e aplicar inovação no dia a dia corporativo. 
 
